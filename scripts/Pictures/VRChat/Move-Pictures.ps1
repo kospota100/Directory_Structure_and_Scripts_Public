@@ -1,0 +1,1 @@
+Move-Item 'C:\Users\<Your username>\Pictures\VRChat\*' 'D:\Pictures\VRChat\'
